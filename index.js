@@ -61,3 +61,4 @@ app.post('/traslados', async(req,res) =>{
 app.listen(3000, () => {
     console.log('Servidor corriendo por el puerto 3000');
 });
+
